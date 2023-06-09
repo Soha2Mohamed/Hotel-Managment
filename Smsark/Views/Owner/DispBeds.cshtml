@@ -1,0 +1,105 @@
+﻿@model List<Bed>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+
+@{
+
+    Layout = "~/Views/Shared/_LayoutOwner.cshtml";
+
+}
+@if (@TempData["SigninOwnerFlag"] != null && @TempData["SigninOwnerFlag"].ToString() == "1")
+{
+
+    Layout = "~/Views/Shared/_SignedInOwner.cshtml";
+
+}
+@if (TempData["flag"] != null)
+{
+
+    @if (TempData["flag"].ToString() == "1")
+    {
+
+        <div style="text-align:center" class="alert alert-success alert-dismissible fade show" role="alert">
+            <strong>Room was added successfully</strong>
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+
+        </div>
+        TempData["flag"] = "0";
+    }
+}
+@if (TempData["EditFlag"] != null)
+{
+    @if (TempData["EditFlag"].ToString() == "1")
+    {
+
+        <div style="text-align:center" class="alert alert-success alert-dismissible fade show" role="alert">
+            <strong>Room was updated successfully</strong>
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+
+        </div>
+        TempData["EditFlag"] = "0";
+    }
+}
+<div id="" style="margin:50px 100px 50px 100px">
+
+    <div style="color:#609ea2; display:flex; font-family:sans-serif;background-color:whitesmoke; ">
+
+        <ul style=" width:100%; justify-content:center;list-style:none;margin:0px 0px 0px 0px; padding:0px 0px 0px 0px; ">
+
+
+
+
+
+            @foreach (var bed in Model)
+            {
+                <li style="">
+                    <div class="containLi" style="color: darkslategrey; border: lightgray solid 0.5px; width: 100%; margin: 10px 0px 10px 0px; padding: 20px 20px 20px 20px; border-radius: 25px; background-color: white; box-shadow: 1px 1px lightgray;">
+
+
+                        <h3 style="padding-left: 10px">Room</h3>
+                        <br><br>
+                        <div class="form-group">
+                            <span class="form-label1">Price </span>
+                            <span class="form-label">@bed.BedPrice</span>
+                        </div>
+                        <div class="form-group">
+                            <span class="form-label1">Room Id: </span>
+                            <span class="form-label">@bed.RoomId</span>
+                        </div>
+
+
+                        <div class="form-group">
+                            <span class="form-label1">State: </span>
+                            <span class="form-label">@bed.IsReserved</span>
+                        </div>
+
+                        <div style="padding-left: 10px">
+                            <br>
+
+                            <a href="@Url.Action("DeleteBed", "Owner", new{BedId = bed.BedId} )">
+
+                                <button style="background-color:red;">Delete Bed</button>
+                            </a>
+                        </div>
+                    </div>
+
+
+                </li>
+                <br>
+
+            }
+
+
+         
+        </ul>
+
+    </div>
+
+</div>
+
+
+

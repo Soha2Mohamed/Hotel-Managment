@@ -1,0 +1,1043 @@
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\appsettings.json
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Smsark.staticwebassets.runtime.json
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Smsark.exe
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Smsark.deps.json
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Smsark.runtimeconfig.json
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Smsark.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Smsark.pdb
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.csproj.AssemblyReference.cache
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.AssemblyInfoInputs.cache
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.AssemblyInfo.cs
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.csproj.CoreCompileInputs.cache
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.RazorAssemblyInfo.cache
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.RazorAssemblyInfo.cs
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\scopedcss\bundle\Smsark.styles.css
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\scopedcss\projectbundle\Smsark.bundle.scp.css
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.csproj.CopyComplete
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\refint\Smsark.dll
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.pdb
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.genruntimeconfig.cache
+C:\Users\Electronica\Downloads\Compressed\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\ref\Smsark.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\appsettings.json
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Smsark.staticwebassets.runtime.json
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Smsark.exe
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Smsark.deps.json
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Smsark.runtimeconfig.json
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Smsark.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Smsark.pdb
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.RazorAssemblyInfo.cache
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.RazorAssemblyInfo.cs
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\staticwebassets\msbuild.Smsark.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\staticwebassets\msbuild.build.Smsark.props
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Smsark.props
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Smsark.props
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\scopedcss\bundle\Smsark.styles.css
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\scopedcss\projectbundle\Smsark.bundle.scp.css
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.csproj.CopyComplete
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\refint\Smsark.dll
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.pdb
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\ref\Smsark.dll
+E:\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.csproj.AssemblyReference.cache
+E:\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.GeneratedMSBuildEditorConfig.editorconfig
+E:\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.AssemblyInfoInputs.cache
+E:\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.AssemblyInfo.cs
+E:\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.csproj.CoreCompileInputs.cache
+E:\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.MvcApplicationPartsAssemblyInfo.cache
+E:\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.RazorAssemblyInfo.cache
+E:\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.RazorAssemblyInfo.cs
+E:\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.dll
+E:\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\refint\Smsark.dll
+E:\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.pdb
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\appsettings.Development.json
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\appsettings.json
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Smsark.staticwebassets.runtime.json
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Smsark.exe
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Smsark.deps.json
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Smsark.runtimeconfig.json
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Smsark.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Smsark.pdb
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\AutoMapper.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Azure.Core.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Azure.Identity.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Humanizer.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.CodeDom.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Memory.Data.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Text.Json.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\staticwebassets\msbuild.Smsark.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\staticwebassets\msbuild.build.Smsark.props
+E:\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Smsark.props
+E:\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Smsark.props
+E:\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\staticwebassets.build.json
+E:\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\staticwebassets.development.json
+E:\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\scopedcss\bundle\Smsark.styles.css
+E:\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\scopedcss\projectbundle\Smsark.bundle.scp.css
+E:\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.csproj.CopyComplete
+E:\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.genruntimeconfig.cache
+E:\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\ref\Smsark.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\appsettings.Development.json
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\appsettings.json
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Smsark.staticwebassets.runtime.json
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Smsark.exe
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Smsark.deps.json
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Smsark.runtimeconfig.json
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Smsark.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Smsark.pdb
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\AutoMapper.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Azure.Core.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Azure.Identity.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Humanizer.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.CodeDom.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Text.Json.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.csproj.AssemblyReference.cache
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.AssemblyInfoInputs.cache
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.AssemblyInfo.cs
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.csproj.CoreCompileInputs.cache
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.MvcApplicationPartsAssemblyInfo.cache
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.RazorAssemblyInfo.cache
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.RazorAssemblyInfo.cs
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\staticwebassets.build.json
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\staticwebassets.development.json
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\scopedcss\bundle\Smsark.styles.css
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\scopedcss\projectbundle\Smsark.bundle.scp.css
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.csproj.CopyComplete
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\refint\Smsark.dll
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.pdb
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.genruntimeconfig.cache
+D:\Downloads\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\ref\Smsark.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\appsettings.json
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Smsark.staticwebassets.runtime.json
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Smsark.exe
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Smsark.deps.json
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Smsark.runtimeconfig.json
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Smsark.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Smsark.pdb
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.csproj.AssemblyReference.cache
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.AssemblyInfoInputs.cache
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.AssemblyInfo.cs
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.csproj.CoreCompileInputs.cache
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.RazorAssemblyInfo.cache
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.RazorAssemblyInfo.cs
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\staticwebassets\msbuild.Smsark.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\staticwebassets\msbuild.build.Smsark.props
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Smsark.props
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Smsark.props
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\scopedcss\bundle\Smsark.styles.css
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\scopedcss\projectbundle\Smsark.bundle.scp.css
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.csproj.CopyComplete
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\refint\Smsark.dll
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.pdb
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.genruntimeconfig.cache
+C:\Users\Laptop Market\Desktop\Smsark-master (10)\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\ref\Smsark.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\appsettings.json
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Smsark.staticwebassets.runtime.json
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Smsark.exe
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Smsark.deps.json
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Smsark.runtimeconfig.json
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Smsark.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Smsark.pdb
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.csproj.AssemblyReference.cache
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.AssemblyInfoInputs.cache
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.AssemblyInfo.cs
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.csproj.CoreCompileInputs.cache
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.RazorAssemblyInfo.cache
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.RazorAssemblyInfo.cs
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\staticwebassets\msbuild.Smsark.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\staticwebassets\msbuild.build.Smsark.props
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Smsark.props
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Smsark.props
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\scopedcss\bundle\Smsark.styles.css
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\scopedcss\projectbundle\Smsark.bundle.scp.css
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.csproj.CopyComplete
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\refint\Smsark.dll
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.pdb
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\Smsark.genruntimeconfig.cache
+C:\Users\Ibrahim Shaaban\Desktop\final\Smsark-master\Smsark-master\Smsark-master\Smsark\obj\Debug\net6.0\ref\Smsark.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\appsettings.Development.json
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\appsettings.json
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\Smsark.staticwebassets.runtime.json
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\Smsark.exe
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\Smsark.deps.json
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\Smsark.runtimeconfig.json
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\Smsark.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\Smsark.pdb
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\AutoMapper.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\Azure.Core.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\Azure.Identity.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\Humanizer.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\System.CodeDom.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\System.Text.Json.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Downloads\Final1\Final1\Smsark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Downloads\Final1\Final1\Smsark\obj\Debug\net6.0\Smsark.csproj.AssemblyReference.cache
+D:\Downloads\Final1\Final1\Smsark\obj\Debug\net6.0\Smsark.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Final1\Final1\Smsark\obj\Debug\net6.0\Smsark.AssemblyInfoInputs.cache
+D:\Downloads\Final1\Final1\Smsark\obj\Debug\net6.0\Smsark.AssemblyInfo.cs
+D:\Downloads\Final1\Final1\Smsark\obj\Debug\net6.0\Smsark.csproj.CoreCompileInputs.cache
+D:\Downloads\Final1\Final1\Smsark\obj\Debug\net6.0\Smsark.MvcApplicationPartsAssemblyInfo.cache
+D:\Downloads\Final1\Final1\Smsark\obj\Debug\net6.0\Smsark.RazorAssemblyInfo.cache
+D:\Downloads\Final1\Final1\Smsark\obj\Debug\net6.0\Smsark.RazorAssemblyInfo.cs
+D:\Downloads\Final1\Final1\Smsark\obj\Debug\net6.0\staticwebassets.build.json
+D:\Downloads\Final1\Final1\Smsark\obj\Debug\net6.0\staticwebassets.development.json
+D:\Downloads\Final1\Final1\Smsark\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Downloads\Final1\Final1\Smsark\obj\Debug\net6.0\scopedcss\bundle\Smsark.styles.css
+D:\Downloads\Final1\Final1\Smsark\obj\Debug\net6.0\scopedcss\projectbundle\Smsark.bundle.scp.css
+D:\Downloads\Final1\Final1\Smsark\obj\Debug\net6.0\Smsark.csproj.CopyComplete
+D:\Downloads\Final1\Final1\Smsark\obj\Debug\net6.0\Smsark.dll
+D:\Downloads\Final1\Final1\Smsark\obj\Debug\net6.0\refint\Smsark.dll
+D:\Downloads\Final1\Final1\Smsark\obj\Debug\net6.0\Smsark.pdb
+D:\Downloads\Final1\Final1\Smsark\obj\Debug\net6.0\Smsark.genruntimeconfig.cache
+D:\Downloads\Final1\Final1\Smsark\obj\Debug\net6.0\ref\Smsark.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\obj\Debug\net6.0\Smsark.csproj.AssemblyReference.cache
+D:\housingproject\Final1 (5)\Final1\Smsark\obj\Debug\net6.0\Smsark.GeneratedMSBuildEditorConfig.editorconfig
+D:\housingproject\Final1 (5)\Final1\Smsark\obj\Debug\net6.0\Smsark.AssemblyInfoInputs.cache
+D:\housingproject\Final1 (5)\Final1\Smsark\obj\Debug\net6.0\Smsark.AssemblyInfo.cs
+D:\housingproject\Final1 (5)\Final1\Smsark\obj\Debug\net6.0\Smsark.csproj.CoreCompileInputs.cache
+D:\housingproject\Final1 (5)\Final1\Smsark\obj\Debug\net6.0\Smsark.MvcApplicationPartsAssemblyInfo.cache
+D:\housingproject\Final1 (5)\Final1\Smsark\obj\Debug\net6.0\Smsark.RazorAssemblyInfo.cache
+D:\housingproject\Final1 (5)\Final1\Smsark\obj\Debug\net6.0\Smsark.RazorAssemblyInfo.cs
+D:\housingproject\Final1 (5)\Final1\Smsark\obj\Debug\net6.0\Smsark.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\obj\Debug\net6.0\refint\Smsark.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\obj\Debug\net6.0\Smsark.pdb
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\appsettings.Development.json
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\appsettings.json
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Smsark.staticwebassets.runtime.json
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Smsark.exe
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Smsark.deps.json
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Smsark.runtimeconfig.json
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Smsark.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Smsark.pdb
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\AutoMapper.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Azure.Core.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Azure.Identity.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Humanizer.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\System.CodeDom.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\System.Memory.Data.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\System.Text.Json.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\housingproject\Final1 (5)\Final1\Smsark\obj\Debug\net6.0\staticwebassets\msbuild.Smsark.Microsoft.AspNetCore.StaticWebAssets.props
+D:\housingproject\Final1 (5)\Final1\Smsark\obj\Debug\net6.0\staticwebassets\msbuild.build.Smsark.props
+D:\housingproject\Final1 (5)\Final1\Smsark\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Smsark.props
+D:\housingproject\Final1 (5)\Final1\Smsark\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Smsark.props
+D:\housingproject\Final1 (5)\Final1\Smsark\obj\Debug\net6.0\staticwebassets.pack.json
+D:\housingproject\Final1 (5)\Final1\Smsark\obj\Debug\net6.0\staticwebassets.build.json
+D:\housingproject\Final1 (5)\Final1\Smsark\obj\Debug\net6.0\staticwebassets.development.json
+D:\housingproject\Final1 (5)\Final1\Smsark\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\housingproject\Final1 (5)\Final1\Smsark\obj\Debug\net6.0\scopedcss\bundle\Smsark.styles.css
+D:\housingproject\Final1 (5)\Final1\Smsark\obj\Debug\net6.0\scopedcss\projectbundle\Smsark.bundle.scp.css
+D:\housingproject\Final1 (5)\Final1\Smsark\obj\Debug\net6.0\Smsark.csproj.CopyComplete
+D:\housingproject\Final1 (5)\Final1\Smsark\obj\Debug\net6.0\Smsark.genruntimeconfig.cache
+D:\housingproject\Final1 (5)\Final1\Smsark\obj\Debug\net6.0\ref\Smsark.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\appsettings.Development.json
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\appsettings.json
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Smsark.staticwebassets.runtime.json
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Smsark.exe
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Smsark.deps.json
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Smsark.runtimeconfig.json
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Smsark.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Smsark.pdb
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\AutoMapper.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Azure.Core.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Azure.Identity.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Humanizer.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\System.CodeDom.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\System.Text.Json.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\obj\Debug\net6.0\Smsark.csproj.AssemblyReference.cache
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\obj\Debug\net6.0\Smsark.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\obj\Debug\net6.0\Smsark.AssemblyInfoInputs.cache
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\obj\Debug\net6.0\Smsark.AssemblyInfo.cs
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\obj\Debug\net6.0\Smsark.csproj.CoreCompileInputs.cache
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\obj\Debug\net6.0\Smsark.MvcApplicationPartsAssemblyInfo.cache
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\obj\Debug\net6.0\Smsark.RazorAssemblyInfo.cache
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\obj\Debug\net6.0\Smsark.RazorAssemblyInfo.cs
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\obj\Debug\net6.0\staticwebassets.build.json
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\obj\Debug\net6.0\staticwebassets.development.json
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\obj\Debug\net6.0\scopedcss\bundle\Smsark.styles.css
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\obj\Debug\net6.0\scopedcss\projectbundle\Smsark.bundle.scp.css
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\obj\Debug\net6.0\Smsark.csproj.CopyComplete
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\obj\Debug\net6.0\Smsark.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\obj\Debug\net6.0\refint\Smsark.dll
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\obj\Debug\net6.0\Smsark.pdb
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\obj\Debug\net6.0\Smsark.genruntimeconfig.cache
+D:\Downloads\Final1 (6)\Final1 (5)\Final1\Smsark\obj\Debug\net6.0\ref\Smsark.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\appsettings.Development.json
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\appsettings.json
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\Smsark.exe
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\Smsark.staticwebassets.runtime.json
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\Smsark.deps.json
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\Smsark.runtimeconfig.json
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\Smsark.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\Smsark.pdb
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\AutoMapper.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\Azure.Core.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\Azure.Identity.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\Humanizer.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\System.CodeDom.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\System.Memory.Data.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\System.Text.Json.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\obj\Debug\net6.0\Smsark.csproj.AssemblyReference.cache
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\obj\Debug\net6.0\Smsark.GeneratedMSBuildEditorConfig.editorconfig
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\obj\Debug\net6.0\Smsark.AssemblyInfoInputs.cache
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\obj\Debug\net6.0\Smsark.AssemblyInfo.cs
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\obj\Debug\net6.0\Smsark.csproj.CoreCompileInputs.cache
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\obj\Debug\net6.0\Smsark.MvcApplicationPartsAssemblyInfo.cache
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\obj\Debug\net6.0\Smsark.RazorAssemblyInfo.cache
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\obj\Debug\net6.0\Smsark.RazorAssemblyInfo.cs
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\obj\Debug\net6.0\staticwebassets\msbuild.Smsark.Microsoft.AspNetCore.StaticWebAssets.props
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\obj\Debug\net6.0\staticwebassets\msbuild.build.Smsark.props
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Smsark.props
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Smsark.props
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\obj\Debug\net6.0\staticwebassets.pack.json
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\obj\Debug\net6.0\staticwebassets.build.json
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\obj\Debug\net6.0\staticwebassets.development.json
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\obj\Debug\net6.0\scopedcss\bundle\Smsark.styles.css
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\obj\Debug\net6.0\scopedcss\projectbundle\Smsark.bundle.scp.css
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\obj\Debug\net6.0\Smsark.csproj.CopyComplete
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\obj\Debug\net6.0\Smsark.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\obj\Debug\net6.0\refint\Smsark.dll
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\obj\Debug\net6.0\Smsark.pdb
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\obj\Debug\net6.0\Smsark.genruntimeconfig.cache
+E:\3rd year\2nd sem\inshallahFinal\Final1\Smsark\obj\Debug\net6.0\ref\Smsark.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\obj\Debug\net6.0\Smsark.csproj.AssemblyReference.cache
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\obj\Debug\net6.0\Smsark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\obj\Debug\net6.0\Smsark.AssemblyInfoInputs.cache
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\obj\Debug\net6.0\Smsark.AssemblyInfo.cs
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\obj\Debug\net6.0\Smsark.csproj.CoreCompileInputs.cache
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\obj\Debug\net6.0\Smsark.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\obj\Debug\net6.0\Smsark.RazorAssemblyInfo.cache
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\obj\Debug\net6.0\Smsark.RazorAssemblyInfo.cs
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\obj\Debug\net6.0\Smsark.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\obj\Debug\net6.0\refint\Smsark.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\obj\Debug\net6.0\Smsark.pdb
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\appsettings.json
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\Smsark.staticwebassets.runtime.json
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\Smsark.exe
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\Smsark.deps.json
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\Smsark.runtimeconfig.json
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\Smsark.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\Smsark.pdb
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\obj\Debug\net6.0\scopedcss\bundle\Smsark.styles.css
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\obj\Debug\net6.0\scopedcss\projectbundle\Smsark.bundle.scp.css
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\obj\Debug\net6.0\Smsark.csproj.CopyComplete
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\obj\Debug\net6.0\Smsark.genruntimeconfig.cache
+C:\Users\Electronica\Desktop\aa\Final1\Smsark\obj\Debug\net6.0\ref\Smsark.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\appsettings.json
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\Smsark.staticwebassets.runtime.json
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\Smsark.exe
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\Smsark.deps.json
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\Smsark.runtimeconfig.json
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\Smsark.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\Smsark.pdb
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\Humanizer.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\obj\Debug\net6.0\Smsark.csproj.AssemblyReference.cache
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\obj\Debug\net6.0\Smsark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\obj\Debug\net6.0\Smsark.AssemblyInfoInputs.cache
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\obj\Debug\net6.0\Smsark.AssemblyInfo.cs
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\obj\Debug\net6.0\Smsark.csproj.CoreCompileInputs.cache
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\obj\Debug\net6.0\Smsark.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\obj\Debug\net6.0\Smsark.RazorAssemblyInfo.cache
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\obj\Debug\net6.0\Smsark.RazorAssemblyInfo.cs
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\obj\Debug\net6.0\staticwebassets\msbuild.Smsark.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\obj\Debug\net6.0\staticwebassets\msbuild.build.Smsark.props
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Smsark.props
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Smsark.props
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\obj\Debug\net6.0\scopedcss\bundle\Smsark.styles.css
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\obj\Debug\net6.0\scopedcss\projectbundle\Smsark.bundle.scp.css
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\obj\Debug\net6.0\Smsark.csproj.CopyComplete
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\obj\Debug\net6.0\Smsark.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\obj\Debug\net6.0\refint\Smsark.dll
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\obj\Debug\net6.0\Smsark.pdb
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\obj\Debug\net6.0\Smsark.genruntimeconfig.cache
+C:\Users\soha mohamed\Desktop\FinalFashkh\Final1\Smsark\obj\Debug\net6.0\ref\Smsark.dll

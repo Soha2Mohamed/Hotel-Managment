@@ -1,0 +1,170 @@
+﻿@model Smsark.Models.Apartment
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@{
+
+    Layout = "~/Views/Shared/_LayoutOwner.cshtml";
+
+}
+@if (@TempData["SigninOwnerFlag"] != null && @TempData["SigninOwnerFlag"].ToString() == "1")
+{
+
+    Layout = "~/Views/Shared/_SignedInOwner.cshtml";
+
+}
+
+
+@if (TempData["SuccessfulRoomAdd"] != null)
+{
+
+    @if (TempData["SuccessfulRoomAdd"].ToString() == "1")
+    {
+
+        <div style="text-align:center; margin-bottom:0px" class="alert alert-success alert-dismissible fade show" role="alert">
+            <strong>Room was added Succesfully</strong>
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+
+        </div>
+
+    }
+}
+<div class="container">
+
+    <div class="booking-form" style="margin:50px 100px 50px 100px; padding-left:60px;">
+        <h3 style="color:black"> Your apartment</h3>
+        <div method="post">
+
+            <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-indicators">
+                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 4"></button>
+                </div>
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <img src="/img/@Model.MainPhoto" class="d-block w-100" alt="..." style="height:400px">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="/img/@Model.SecPhoto" class="d-block w-100" alt="..." style="height:400px">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="/img/@Model.ThirdPhoto" class="d-block w-100" alt="..." style="height:400px">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="/img/@Model.FourthPhoto" class="d-block w-100" alt="..." style="height:400px">
+                    </div>
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Next</span>
+                </button>
+            </div>
+            <br><br>
+                <div class="row">
+                    <div class="col-md-6">
+
+                        <div class="form-group" style="width:300px; padding-top:100px">
+
+                            <span class="form-label" style="display:inline; margin-bottom:10px; ">City</span>
+                            <br>
+                            <select asp-for="Region" name="Region" class="form-control" style="width:300px">
+                                <option selected disabled>@Model.Region</option>
+                                
+                            </select>
+                            <span class="select-arrow"></span>
+
+                        </div>
+                        <span class="form-label" style="display:inline; margin-bottom:10px; margin-right:10px ">Location</span>
+                        <input disabled id="address" value="@Model.Location" asp-for="Location" name="Location">
+
+                    </div>
+
+                    <div class="col-md-6">
+
+                    <div disabled id="map" style="height: 300px; width:300px">
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+                <br><br>
+                <div class="row" id="">
+                    <span class="form-label" style="font-size:20px">Apartment Data</span>
+                    <div class="col-sm-4">
+
+                        <div class="form-group">
+                            <span class="form-label">Description</span>
+                        <input disabled asp-for="Description" name="Description" class="form-control" type="text" id="" value="@Model.Description" required="">
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="form-group">
+                            <span class="form-label">Number of rooms</span>
+                        <input disabled asp-for="NoOfRooms" name="NoOfRooms" class="form-control" type="number" id="" value="@Model.NoOfRooms" required="">
+                        </div>
+
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="form-group">
+                            <span class="form-label">Number of beds</span>
+                        <input disabled asp-for="NoOfBeds" name="NoOfBeds" class="form-control" type="number" id="" value="@Model.NoOfBeds" required="">
+                        </div>
+
+                    </div>
+
+                </div>
+                <br><br>
+                <div class="row" id="">
+                    <span class="form-label" style="font-size:20px">Apartment Facilities</span>
+                    <div class="col-sm-4">
+                        <div class="form-group">
+                            <span class="form-label">WiFi</span>
+                        <input disabled asp-for="WiFi" name="WiFi" value="@Model.WiFi" type="checkbox">
+
+                        </div>
+                        <div class="form-group">
+                            <span class="form-label">Number of bathrooms</span>
+                        <input disabled asp-for="NoOfBathrooms" name="NoOfBathrooms" class="form-control" type="number" id="" value="@Model.NoOfBathrooms" required="">
+
+                        </div>
+                    </div>
+
+                <div class="form-btn">
+                    <br>
+      
+
+                    <a href="@Url.Action("AddRoom", "Owner",new {apartmentID = @Model.ApartmentId} )">
+                        <button style="background-color:#609ea2;">Add Rooms</button>
+                    </a>
+
+                    <a href="@Url.Action("DispRooms", "Owner", new{ApartmentID = Model.ApartmentId})">
+                        <button style="background-color:#609ea2;">Display Rooms</button>
+                    </a>
+                    <a href="@Url.Action("DeleteApartment", "Owner", new{ApartmentId = Model.ApartmentId})">
+                        <button style="background-color:red;">Delete Apartment</button>
+                    </a>
+
+                </div>
+
+                </div>
+
+               
+      
+        <input name="__RequestVerificationToken" type="hidden" value="CfDJ8BMOE_Bs-kJHo8WeKZwfAB3H2IDDINHd6BqRCnUsY8nW8EwXX_2WWdxepHfkxjPNUbRm50-ZhiTP6X-y23QbYJ_r2YqUxEJjxeVlp6e0qGjlXNd9rh_F_QbOWs9QRJnSSumf_vW6CWXauZZ19gvXJQo">
+
+    </div>
+
+</div>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>

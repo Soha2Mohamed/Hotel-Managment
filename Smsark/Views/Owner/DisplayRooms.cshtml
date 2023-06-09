@@ -1,0 +1,124 @@
+﻿@model List<Apartment>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+
+@{
+
+    Layout = "~/Views/Shared/_LayoutOwner.cshtml";
+
+}
+@if (@TempData["SigninOwnerFlag"] != null && @TempData["SigninOwnerFlag"].ToString() == "1")
+{
+
+    Layout = "~/Views/Shared/_SignedInOwner.cshtml";
+
+}
+@if (TempData["flag"] != null)
+{
+
+    @if (TempData["flag"].ToString() == "1")
+    {
+
+        <div style="text-align:center" class="alert alert-success alert-dismissible fade show" role="alert">
+            <strong>Room was added successfully</strong>
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+
+        </div>
+        TempData["flag"] = "0";
+    }
+}
+@if (TempData["EditFlag"] != null)
+{
+    @if (TempData["EditFlag"].ToString() == "1")
+    {
+
+        <div style="text-align:center" class="alert alert-success alert-dismissible fade show" role="alert">
+            <strong>Room was updated successfully</strong>
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+
+        </div>
+        TempData["EditFlag"] = "0";
+    }
+}
+<div id="" style="margin:50px 100px 50px 100px">
+
+    <div style="color:#609ea2; display:flex; font-family:sans-serif;background-color:whitesmoke; ">
+
+        <ul style=" width:100%; justify-content:center;list-style:none;margin:0px 0px 0px 0px; padding:0px 0px 0px 0px; ">
+
+            <div style="color:black">
+                <br>
+                <p style="display: inline;text-align:left ">&nbsp; You have @TempData["Num"] properties</p>
+                <span style="float:right; display: inline;">
+                    <label style="text-align:right">Sort By</label>
+                    <select style="text-align:right">
+                        <option selected> </option>
+                        <option>Price Low to High</option>
+                        <option>Price High to Low</option>
+                    </select>
+                </span>
+            </div>
+
+
+
+            @foreach (var apar in Model)
+            {
+                <li style="">
+                    <div class="containLi" style="color: darkslategrey; border: lightgray solid 0.5px; width: 100%; margin: 10px 0px 10px 0px; padding: 20px 20px 20px 20px; border-radius: 25px; background-color: white; box-shadow: 1px 1px lightgray;">
+                        <div class="row">
+                            <div class="col-sm-8">
+                                <h3 style="padding-left: 10px">Bedroom</h3>
+                                <div class="form-group">
+                                    <span class="form-label1">Location: </span>
+                                    <span class="form-label">@apar.Location</span>
+                                </div>
+                                <div class="form-group">
+                                    <span class="form-label1">Specialties: </span>
+                                    <span class="form-label">@apar.NoOfBathrooms Bathrooms</span>
+                                </div>
+                                <div style="overflow-wrap: break-word;">
+                                    <span class="form-label1">Short Description: </span>
+                                    <span class="form-label" style="word-wrap: normal; overflow-wrap: break-word;">@apar.Description</span>
+                                </div>
+                                <br>
+                                <div>
+                                    <span class="form-label1">Price: </span>
+                                    <span class="form-label" style="word-wrap: normal; overflow-wrap: break-word;">70 Egyptian pounds per night</span>
+                                </div>
+
+                                <div style="padding-left: 10px">
+                                    <br>
+                                    <a href="@Url.Action("DispApartment", "Owner", @apar)">
+                                        <button style="background-color:#609ea2;">Display apartment</button>
+                                    </a>
+                                </div>
+                            </div>
+
+                            <div class="col-sm-4" style="display: flex; justify-content: flex-end;">
+                                <div style="padding: 30px 40px 30px 40px; padding-left: 50px;">
+                                    <img src="/img/@apar.MainPhoto" alt="this is an image" style="float: right; width: 250px; height: 250px;">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </li>
+                <br>
+
+            }
+
+
+            <button style="background-color:#609ea2;position:absolute; width: 175px; margin-left:72%" class="btn btn-primary" ="button" value="Check" onclick="location.href='@Url.Action("AddApartments", "Owner")'">Add Apartment </button>
+
+        </ul>
+
+    </div>
+
+</div>
+
+
+

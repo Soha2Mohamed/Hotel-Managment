@@ -1,0 +1,60 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Smsark.Models.Bed
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@{
+
+    Layout = "~/Views/Shared/_LayoutOwner.cshtml";
+
+}
+@if (@TempData["SigninOwnerFlag"] != null && @TempData["SigninOwnerFlag"].ToString() == "1")
+{
+
+    Layout = "~/Views/Shared/_SignedInOwner.cshtml";
+
+}
+<div class="container">
+
+    <div class="booking-form" style="margin:50px 100px 50px 100px; padding-left:60px;">
+        <h3 style="color:black"> Add Bed</h3>
+        <form method="post" enctype="multipart/form-data">
+
+        
+
+     
+            <div class="row" id="">
+                <span class="form-label" style="font-size:20px"> Pricing</span>
+                <div class="col-sm-4">
+
+                    <div class="form-group">
+                        <span class="form-label">Price</span>
+                        <input asp-for="BedPrice" name="BedPrice" class="form-control" type="number" id=""  required="">
+                    </div>
+                </div>
+              
+
+            </div>
+            <br><br>
+
+            <div class="form-btn">
+                <br>
+                <input asp-action="AddBed" asp-controller="Owner" type="submit" value="Add Bed" class="submit-btn">
+
+            </div>
+
+        </form>
+        <input name="__RequestVerificationToken" type="hidden" value="CfDJ8BMOE_Bs-kJHo8WeKZwfAB3H2IDDINHd6BqRCnUsY8nW8EwXX_2WWdxepHfkxjPNUbRm50-ZhiTP6X-y23QbYJ_r2YqUxEJjxeVlp6e0qGjlXNd9rh_F_QbOWs9QRJnSSumf_vW6CWXauZZ19gvXJQo">
+
+    </div>
+
+</div>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>

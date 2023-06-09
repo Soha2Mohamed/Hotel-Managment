@@ -1,0 +1,135 @@
+﻿@model Smsark.Models.Apartment
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@{
+
+    Layout = "~/Views/Shared/_LayoutOwner.cshtml";
+
+}
+@if (@TempData["SigninOwnerFlag"] != null && @TempData["SigninOwnerFlag"].ToString() == "1")
+{
+
+    Layout = "~/Views/Shared/_SignedInOwner.cshtml";
+
+}
+<div class="container">
+
+    <div class="booking-form" style="margin:50px 100px 50px 100px; padding-left:60px;">
+        <h3 style="color:black"> Add apartment</h3>
+        <form method="post" enctype="multipart/form-data">
+
+            <div class="row">
+                <div class="col-md-6">
+
+                    <div class="form-group" style="width:300px; padding-top:100px">
+
+                        <span class="form-label" style="display:inline; margin-bottom:10px; ">City</span>
+                        <br>
+                        <select asp-for="Region" name="Region" class="form-control" style="width:300px">
+                            <option>Assiut</option>
+                            <option>Minya</option>
+                            <option>Sohag</option>
+                        </select>
+                        <span class="select-arrow"></span>
+
+                    </div>
+                    <span class="form-label"  style="display:inline; margin-bottom:10px; margin-right:10px ">Location</span>
+                    <input id="address" asp-for="Location" name="Location">
+
+                </div>
+               
+                <div class="col-md-6">
+
+                    <div id="map" style="height: 300px; width:300px">
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="row" id="AddImages">
+              
+                <div class="col-sm-6">
+                    <br><br>
+                    <label asp-for="MainPhoto" class="control-label"></label>
+                    <input asp-for="MainPhoto" class="form-control" type="file" name="img_file" />
+                </div>
+                <div class="col-sm-6">
+                    <br><br>
+                    <label asp-for="SecPhoto" class="control-label"></label>
+                    <input asp-for="SecPhoto" class="form-control" type="file" name="img_file1" />
+                </div>
+                <div class="col-sm-6">
+                    <br><br>
+                    <label asp-for="ThirdPhoto" class="control-label"></label>
+                    <input asp-for="ThirdPhoto" class="form-control" type="file" name="img_file2" />
+                </div>
+                <div class="col-sm-6">
+                    <br><br>
+                    <label asp-for="FourthPhoto" class="control-label"></label>
+                    <input asp-for="FourthPhoto" class="form-control" type="file" name="img_file3" />
+                </div>
+              </div>
+              
+            <br><br>
+            <div class="row" id="">
+                <span class="form-label" style="font-size:20px">Apartment Data</span>
+                <div class="col-sm-4">
+
+                    <div class="form-group">
+                        <span class="form-label">Description</span>
+                        <input asp-for="Description" name="Description" class="form-control" type="text" id="" value=" " required="">
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="form-group">
+                        <span class="form-label">Number of rooms</span>
+                        <input asp-for="NoOfRooms" name="NoOfRooms" class="form-control" type="number" id="" value="" required="">
+                    </div>
+
+                </div>
+                <div class="col-sm-4">
+                    <div class="form-group">
+                        <span class="form-label">Number of beds</span>
+                        <input asp-for="NoOfBeds" name="NoOfBeds" class="form-control" type="number" id="" value="" required="">
+                    </div>
+
+                </div>
+               
+            </div>
+            <br><br>
+            <div class="row" id="">
+                <span class="form-label" style="font-size:20px">Apartment Facilities</span>
+                <div class="col-sm-4">
+                    <div class="form-group">
+                        <span class="form-label">WiFi</span>
+                        <input asp-for="WiFi" name="WiFi" type="checkbox">
+                      
+                    </div>
+                    <div class="form-group">
+                        <span class="form-label">Number of bathrooms</span>
+                        <input asp-for="NoOfBathrooms" name="NoOfBathrooms" class="form-control" type="number" id="" value="" required="">
+
+                    </div>
+                </div>
+                
+            </div>
+  
+            <div class="form-btn">
+                <br>
+                <input asp-action="AddApartments"  asp-controller="Owner" type="submit" value="Add apartment" class="submit-btn">
+
+            </div>
+
+     </form>
+            <input name="__RequestVerificationToken" type="hidden" value="CfDJ8BMOE_Bs-kJHo8WeKZwfAB3H2IDDINHd6BqRCnUsY8nW8EwXX_2WWdxepHfkxjPNUbRm50-ZhiTP6X-y23QbYJ_r2YqUxEJjxeVlp6e0qGjlXNd9rh_F_QbOWs9QRJnSSumf_vW6CWXauZZ19gvXJQo">
+       
+    </div>
+
+</div>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
